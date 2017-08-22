@@ -9,11 +9,11 @@ I did the frontend part some 2 years ago.. :), Now as part of my training I comp
 AngularJS,Bootstrap,NodeJS,ExpressJS,MongoDB
 
 <strong>How To Use</strong>
-1)Download Both files
-2)Start The REST API Node Server and the Mongo Server
-3)Just go to your Specified Port to access the Index.html (Home Page) file
+1)Download Both files <br>
+2)Start The REST API Node Server and the Mongo Server <br>
+3)Just go to your Specified Port to access the Index.html (Home Page) file <br>
 
 <strong>Future</strong>
-1)Resolve Favorites Issue
-2)Secure Communication
-3)Customize
+1)Resolve Favorites Issue (Angular CORS Issue) <br>
+2)Secure Communication <br>
+3)Customize <br>
