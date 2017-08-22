@@ -5,8 +5,8 @@ I did the frontend part some 2 years ago.. :), Now as part of my training I comp
 
 <h3> Coursera ConFusion Complete Full Stack Web App</h3>
 
-<strong>Technologies Used :</strong>
-AngularJS,Bootstrap,NodeJS,ExpressJS,MongoDB
+<strong>Technologies Used :</strong> <br>
+AngularJS, Bootstrap, NodeJS, ExpressJS, MongoDB
 
 <strong>How To Use</strong> <br>
 1)Download Both files <br>
