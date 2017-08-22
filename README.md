@@ -8,12 +8,12 @@ I did the frontend part some 2 years ago.. :), Now as part of my training I comp
 <strong>Technologies Used :</strong>
 AngularJS,Bootstrap,NodeJS,ExpressJS,MongoDB
 
-<strong>How To Use</strong>
+<strong>How To Use</strong> <br>
 1)Download Both files <br>
 2)Start The REST API Node Server and the Mongo Server <br>
 3)Just go to your Specified Port to access the Index.html (Home Page) file <br>
 
-<strong>Future</strong>
+<strong>Future</strong> <br>
 1)Resolve Favorites Issue (Angular CORS Issue) <br>
 2)Secure Communication <br>
 3)Customize <br>
